@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "6aaa2f6f5ca48538d38ac3d0"
+  },
+  "studentId": 1001,
+  "name": "Aibek",
+  "age": 21,
+  "group": "IS-24-1",
+  "gpa": 3.8,
+  "active": true,
+  "contact": {
+    "city": "Almaty",
+    "email": "aibek@example.com"
+  },
+  "skills": [
+    "Java",
+    "MongoDB",
+    "Docker"
+  ],
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d1"
+  },
+  "studentId": 1002,
+  "name": "Aliya",
+  "age": 19,
+  "group": "IS-24-1",
+  "gpa": 3.8,
+  "active": true,
+  "contact": {
+    "city": "Almaty",
+    "email": "aliya@example.com"
+  },
+  "skills": [
+    "Python",
+    "MongoDB"
+  ],
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d3"
+  },
+  "studentId": 1004,
+  "name": "Aruzhan",
+  "age": 20,
+  "group": "IS-24-1",
+  "gpa": 4,
+  "active": true,
+  "contact": {
+    "city": "Almaty",
+    "email": "aruzhan@example.com"
+  },
+  "skills": [
+    "Java",
+    "MongoDB",
+    "Python"
+  ],
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d4"
+  },
+  "studentId": 1005,
+  "name": "Dias",
+  "age": 22,
+  "group": "IS-24-2",
+  "gpa": 3.2,
+  "active": true,
+  "contact": {
+    "city": "Shymkent",
+    "email": "dias@example.com"
+  },
+  "skills": [
+    "C++",
+    "Docker"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d5"
+  },
+  "studentId": 1006,
+  "name": "Madina",
+  "age": 19,
+  "group": "IS-24-1",
+  "gpa": 3.6,
+  "active": true,
+  "contact": {
+    "city": "Almaty",
+    "email": "madina@example.com"
+  },
+  "skills": [
+    "Java",
+    "MongoDB"
+  ],
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d7"
+  },
+  "studentId": 1008,
+  "name": "Dana",
+  "age": 20,
+  "group": "IS-24-2",
+  "gpa": 3.9,
+  "active": true,
+  "contact": {
+    "city": "Astana",
+    "email": "dana@example.com"
+  },
+  "skills": [
+    "MongoDB",
+    "Python"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6aaa31575ca48538d38ac3d8"
+  },
+  "studentId": 1009,
+  "name": "Erlan",
+  "age": 21,
+  "group": "IS-24-3",
+  "gpa": 3.1,
+  "active": true,
+  "contact": {
+    "city": "Almaty",
+    "email": "erlan@example.com"
+  },
+  "skills": [
+    "Java",
+    "Docker"
+  ]
+}]
