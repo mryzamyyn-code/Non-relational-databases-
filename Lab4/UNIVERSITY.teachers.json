@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6ab36b86746d60d8ed6e26cf"
+  },
+  "teacherId": 301,
+  "name": "Marat Ivanov",
+  "department": "Computer Science"
+},
+{
+  "_id": {
+    "$oid": "6ab36b86746d60d8ed6e26d0"
+  },
+  "teacherId": 302,
+  "name": "Aigul Saparova",
+  "department": "Information Systems"
+},
+{
+  "_id": {
+    "$oid": "6ab36b86746d60d8ed6e26d1"
+  },
+  "teacherId": 303,
+  "name": "Serik Akhmet",
+  "department": "Software Engineering"
+},
+{
+  "_id": {
+    "$oid": "6ab36b86746d60d8ed6e26d2"
+  },
+  "teacherId": 304,
+  "name": "Olga Petrova",
+  "department": "Mathematics"
+},
+{
+  "_id": {
+    "$oid": "6ab36b86746d60d8ed6e26d3"
+  },
+  "teacherId": 305,
+  "name": "Nurlan Kassym",
+  "department": "Programming"
+}]

@@ -1,0 +1,623 @@
+[{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198330"
+  },
+  "studentId": 1001,
+  "name": "Aidar Sadykov",
+  "group": "CS-21",
+  "gpa": 3.8,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "Python",
+    "MongoDB",
+    "Git"
+  ],
+  "credits": 60,
+  "courseIds": [
+    201,
+    202
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198331"
+  },
+  "studentId": 1002,
+  "name": "Dana Karimova",
+  "group": "CS-21",
+  "gpa": 3.5,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "Java",
+    "SQL",
+    "Git"
+  ],
+  "credits": 58,
+  "courseIds": [
+    201,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198332"
+  },
+  "studentId": 1003,
+  "name": "Arman Bekov",
+  "group": "CS-21",
+  "gpa": 4,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "Python",
+    "Docker",
+    "Linux"
+  ],
+  "credits": 62,
+  "courseIds": [
+    202,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198333"
+  },
+  "studentId": 1004,
+  "name": "Aruzhan Nurlanova",
+  "group": "CS-22",
+  "gpa": 3.9,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "credits": 61,
+  "courseIds": [
+    201,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198334"
+  },
+  "studentId": 1005,
+  "name": "Dias Omarov",
+  "group": "CS-22",
+  "gpa": 3.2,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "C++",
+    "Git"
+  ],
+  "credits": 55,
+  "courseIds": [
+    202,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198335"
+  },
+  "studentId": 1006,
+  "name": "Madina Tulegenova",
+  "group": "CS-22",
+  "gpa": 3.7,
+  "year": 2,
+  "major": "Computer Science",
+  "skills": [
+    "Python",
+    "SQL",
+    "Linux"
+  ],
+  "credits": 59,
+  "courseIds": [
+    201,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198336"
+  },
+  "studentId": 1007,
+  "name": "Nursultan Akhmetov",
+  "group": "CS-23",
+  "gpa": 3.1,
+  "year": 1,
+  "major": "Computer Science",
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "credits": 31,
+  "courseIds": [
+    201,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198337"
+  },
+  "studentId": 1008,
+  "name": "Amina Serikova",
+  "group": "CS-23",
+  "gpa": 3.9,
+  "year": 1,
+  "major": "Computer Science",
+  "skills": [
+    "Python",
+    "MongoDB",
+    "Docker"
+  ],
+  "credits": 34,
+  "courseIds": [
+    202,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198338"
+  },
+  "studentId": 1009,
+  "name": "Timur Kassymov",
+  "group": "CS-23",
+  "gpa": 2.9,
+  "year": 1,
+  "major": "Computer Science",
+  "skills": [
+    "C++",
+    "Linux"
+  ],
+  "credits": 29,
+  "courseIds": [
+    203,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198339"
+  },
+  "studentId": 1010,
+  "name": "Alina Zhaksybek",
+  "group": "CS-23",
+  "gpa": 3.6,
+  "year": 1,
+  "major": "Computer Science",
+  "skills": [
+    "JavaScript",
+    "React",
+    "SQL"
+  ],
+  "credits": 32,
+  "courseIds": [
+    201,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833a"
+  },
+  "studentId": 1011,
+  "name": "Bekzat Imanov",
+  "group": "IS-21",
+  "gpa": 3.4,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "SQL",
+    "Python",
+    "Git"
+  ],
+  "credits": 57,
+  "courseIds": [
+    201,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833b"
+  },
+  "studentId": 1012,
+  "name": "Kamila Abdrakhmanova",
+  "group": "IS-21",
+  "gpa": 3.8,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "SQL",
+    "PowerBI",
+    "Excel"
+  ],
+  "credits": 60,
+  "courseIds": [
+    203,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833c"
+  },
+  "studentId": 1013,
+  "name": "Ruslan Aliev",
+  "group": "IS-21",
+  "gpa": 3,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "credits": 54,
+  "courseIds": [
+    201,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833d"
+  },
+  "studentId": 1014,
+  "name": "Sanzhar Mukhamedov",
+  "group": "IS-22",
+  "gpa": 3.6,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "Python",
+    "SQL",
+    "MongoDB"
+  ],
+  "credits": 59,
+  "courseIds": [
+    202,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833e"
+  },
+  "studentId": 1015,
+  "name": "Zarina Baurzhan",
+  "group": "IS-22",
+  "gpa": 4,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "Python",
+    "PowerBI",
+    "Git"
+  ],
+  "credits": 63,
+  "courseIds": [
+    202,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419833f"
+  },
+  "studentId": 1016,
+  "name": "Miras Zhumabay",
+  "group": "IS-22",
+  "gpa": 3.3,
+  "year": 2,
+  "major": "Information Systems",
+  "skills": [
+    "SQL",
+    "Excel"
+  ],
+  "credits": 56,
+  "courseIds": [
+    201,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198340"
+  },
+  "studentId": 1017,
+  "name": "Aigerim Tursyn",
+  "group": "IS-23",
+  "gpa": 3.7,
+  "year": 1,
+  "major": "Information Systems",
+  "skills": [
+    "Python",
+    "SQL",
+    "Git"
+  ],
+  "credits": 35,
+  "courseIds": [
+    202,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198341"
+  },
+  "studentId": 1018,
+  "name": "Daulet Kanat",
+  "group": "IS-23",
+  "gpa": 2.8,
+  "year": 1,
+  "major": "Information Systems",
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "credits": 28,
+  "courseIds": [
+    201,
+    203
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198342"
+  },
+  "studentId": 1019,
+  "name": "Fariza Nurbek",
+  "group": "IS-23",
+  "gpa": 3.9,
+  "year": 1,
+  "major": "Information Systems",
+  "skills": [
+    "Python",
+    "MongoDB",
+    "PowerBI"
+  ],
+  "credits": 36,
+  "courseIds": [
+    202,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198343"
+  },
+  "studentId": 1020,
+  "name": "Adilbek Omar",
+  "group": "IS-23",
+  "gpa": 3.5,
+  "year": 1,
+  "major": "Information Systems",
+  "skills": [
+    "SQL",
+    "Excel",
+    "Git"
+  ],
+  "credits": 33,
+  "courseIds": [
+    203,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198344"
+  },
+  "studentId": 1021,
+  "name": "Maksat Yerlan",
+  "group": "SE-21",
+  "gpa": 3.9,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "Java",
+    "Spring",
+    "Git"
+  ],
+  "credits": 61,
+  "courseIds": [
+    201,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198345"
+  },
+  "studentId": 1022,
+  "name": "Aruzhan Bek",
+  "group": "SE-21",
+  "gpa": 3.6,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "JavaScript",
+    "React",
+    "NodeJS"
+  ],
+  "credits": 59,
+  "courseIds": [
+    202,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198346"
+  },
+  "studentId": 1023,
+  "name": "Alisher Kairat",
+  "group": "SE-21",
+  "gpa": 3.1,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "C#",
+    ".NET",
+    "SQL"
+  ],
+  "credits": 52,
+  "courseIds": [
+    203,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198347"
+  },
+  "studentId": 1024,
+  "name": "Dana Serik",
+  "group": "SE-22",
+  "gpa": 4,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "Python",
+    "Django",
+    "Git"
+  ],
+  "credits": 64,
+  "courseIds": [
+    201,
+    202
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198348"
+  },
+  "studentId": 1025,
+  "name": "Askar Toleu",
+  "group": "SE-22",
+  "gpa": 3.4,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "Java",
+    "SQL",
+    "Docker"
+  ],
+  "credits": 57,
+  "courseIds": [
+    203,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c54198349"
+  },
+  "studentId": 1026,
+  "name": "Aruzhan Marat",
+  "group": "SE-22",
+  "gpa": 3.8,
+  "year": 2,
+  "major": "Software Engineering",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "credits": 60,
+  "courseIds": [
+    202,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419834a"
+  },
+  "studentId": 1027,
+  "name": "Yerlan Nurlan",
+  "group": "SE-23",
+  "gpa": 3.2,
+  "year": 1,
+  "major": "Software Engineering",
+  "skills": [
+    "C++",
+    "Linux",
+    "Git"
+  ],
+  "credits": 30,
+  "courseIds": [
+    201,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419834b"
+  },
+  "studentId": 1028,
+  "name": "Madina Arman",
+  "group": "SE-23",
+  "gpa": 3.9,
+  "year": 1,
+  "major": "Software Engineering",
+  "skills": [
+    "Python",
+    "Docker",
+    "Linux"
+  ],
+  "credits": 37,
+  "courseIds": [
+    202,
+    204
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419834c"
+  },
+  "studentId": 1029,
+  "name": "Dias Rustem",
+  "group": "SE-23",
+  "gpa": 2.7,
+  "year": 1,
+  "major": "Software Engineering",
+  "skills": [
+    "Java",
+    "SQL"
+  ],
+  "credits": 27,
+  "courseIds": [
+    203,
+    205
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ab36b4d199b647c5419834d"
+  },
+  "studentId": 1030,
+  "name": "Amina Daulet",
+  "group": "SE-23",
+  "gpa": 3.7,
+  "year": 1,
+  "major": "Software Engineering",
+  "skills": [
+    "JavaScript",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "credits": 35,
+  "courseIds": [
+    202,
+    204
+  ]
+}]

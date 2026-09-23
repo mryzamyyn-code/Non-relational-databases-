@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6ab36b9571c1ec321450fc51"
+  },
+  "courseId": 201,
+  "name": "Database Systems",
+  "teacherId": 301,
+  "credits": 5
+},
+{
+  "_id": {
+    "$oid": "6ab36b9571c1ec321450fc52"
+  },
+  "courseId": 202,
+  "name": "Programming",
+  "teacherId": 305,
+  "credits": 5
+},
+{
+  "_id": {
+    "$oid": "6ab36b9571c1ec321450fc53"
+  },
+  "courseId": 203,
+  "name": "Information Systems",
+  "teacherId": 302,
+  "credits": 4
+},
+{
+  "_id": {
+    "$oid": "6ab36b9571c1ec321450fc54"
+  },
+  "courseId": 204,
+  "name": "Software Engineering",
+  "teacherId": 303,
+  "credits": 5
+},
+{
+  "_id": {
+    "$oid": "6ab36b9571c1ec321450fc55"
+  },
+  "courseId": 205,
+  "name": "Mathematics",
+  "teacherId": 304,
+  "credits": 4
+}]
